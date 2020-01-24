@@ -1,0 +1,283 @@
+!SESSION 2020-01-21 01:57:38.418 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test.bar
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test.bar
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 01:57:40.424
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 01:59:25.612 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test.bar -o test\test.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test.bar -o test\test.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 01:59:27.586
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 02:00:08.314 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test.bar -p test -o test\test.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test.bar -p test -o test\test.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 02:00:10.251
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 02:04:47.255 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test.bar -p test -a test\test.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test.bar -p test -a test\test.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 02:04:49.162
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 02:05:04.729 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test.bar -a test\test.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test.bar -a test\test.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 02:05:06.581
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 02:05:28.561 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test.bar -a test
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test.bar -a test
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 02:05:30.371
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 02:06:33.654 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test.bar
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test.bar
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 02:06:35.505
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.osgi 4 0 2020-01-21 02:06:36.154
+!MESSAGE An unexpected runtime error has occurred.
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.checkValid(BundleContextImpl.java:931)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.removeBundleListener(BundleContextImpl.java:303)
+	at com.ibm.etools.mft.node.NodeToolingPlugin$1.bundleChanged(NodeToolingPlugin.java:128)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.dispatchEvent(BundleContextImpl.java:847)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+
+!ENTRY com.ibm.etools.mft.node 4 0 2020-01-21 02:06:36.160
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Exception in com.ibm.etools.mft.node.NodeToolingPlugin.stop() of bundle com.ibm.etools.mft.node.
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:791)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.stopWorker(BundleHost.java:510)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:566)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:399)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:95)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:56)
+	at java.lang.reflect.Method.invoke(Method.java:620)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+Caused by: org.eclipse.core.runtime.AssertionFailedException: null argument:
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:85)
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:73)
+	at org.eclipse.core.internal.events.ResourceChangeListenerList.remove(ResourceChangeListenerList.java:146)
+	at org.eclipse.core.internal.events.NotificationManager.removeListener(NotificationManager.java:305)
+	at org.eclipse.core.internal.resources.Workspace.removeResourceChangeListener(Workspace.java:2302)
+	at com.ibm.etools.mft.node.NodeToolingPlugin.stop(NodeToolingPlugin.java:142)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$2.run(BundleContextImpl.java:771)
+	at java.security.AccessController.doPrivileged(AccessController.java:452)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:764)
+	... 19 more
+Root exception:
+org.eclipse.core.runtime.AssertionFailedException: null argument:
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:85)
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:73)
+	at org.eclipse.core.internal.events.ResourceChangeListenerList.remove(ResourceChangeListenerList.java:146)
+	at org.eclipse.core.internal.events.NotificationManager.removeListener(NotificationManager.java:305)
+	at org.eclipse.core.internal.resources.Workspace.removeResourceChangeListener(Workspace.java:2302)
+	at com.ibm.etools.mft.node.NodeToolingPlugin.stop(NodeToolingPlugin.java:142)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl$2.run(BundleContextImpl.java:771)
+	at java.security.AccessController.doPrivileged(AccessController.java:452)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:764)
+	at org.eclipse.osgi.framework.internal.core.BundleHost.stopWorker(BundleHost.java:510)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.suspend(AbstractBundle.java:566)
+	at org.eclipse.osgi.framework.internal.core.Framework.suspendBundle(Framework.java:1206)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.decFWSL(StartLevelManager.java:592)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.doSetStartLevel(StartLevelManager.java:257)
+	at org.eclipse.osgi.framework.internal.core.StartLevelManager.shutdown(StartLevelManager.java:215)
+	at org.eclipse.osgi.framework.internal.core.InternalSystemBundle.suspend(InternalSystemBundle.java:284)
+	at org.eclipse.osgi.framework.internal.core.Framework.shutdown(Framework.java:692)
+	at org.eclipse.osgi.framework.internal.core.Framework.close(Framework.java:600)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.shutdown(EclipseStarter.java:399)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:95)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:56)
+	at java.lang.reflect.Method.invoke(Method.java:620)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+
+!ENTRY com.ibm.etools.mft.node 4 0 2020-01-21 02:06:36.192
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.checkValid(BundleContextImpl.java:931)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.removeBundleListener(BundleContextImpl.java:303)
+	at com.ibm.etools.mft.node.NodeToolingPlugin$1.bundleChanged(NodeToolingPlugin.java:128)
+	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.dispatchEvent(BundleContextImpl.java:847)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:340)
+!SESSION 2020-01-21 15:25:11.423 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test123.bar
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test123.bar
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 15:25:13.799
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 15:36:47.063 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test123.bar -p test -a test\test.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test123.bar -p test -a test\test.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 15:36:49.399
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 15:37:00.746 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test123.bar -p test -a test.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test123.bar -p test -a test.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 15:37:02.841
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 15:37:34.721 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test123.bar -a test.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test123.bar -a test.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 15:37:36.577
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 15:37:59.488 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test123.bar -a test
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test123.bar -a test
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 15:38:01.313
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-21 15:43:22.336 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b test123.bar
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data . -b test123.bar
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-21 15:43:24.341
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-24 15:26:31.228 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test123.bar -p test -a test
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test123.bar -p test -a test
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-24 15:26:33.766
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2020-01-24 15:27:45.653 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=JRE 1.7.0 IBM J9 2.7 Windows 10 amd64-64 Compressed References 20160630_309914 (JIT enabled, AOT enabled)
+J9VM - R27_Java727_SR3_20160630_1516_B309914
+JIT  - tr.r13.java_20160629_120282
+GC   - R27_Java727_SR3_20160630_1516_B309914_CMPRSS
+J9CL - 20160630_309914
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b C:\MyProjects\test123.bar -a test
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data C:\Users\DebanganMajumder\IBM\IIBT10\workspace\test -b C:\MyProjects\test123.bar -a test
+
+!ENTRY org.eclipse.emf.ecore 2 0 2020-01-24 15:27:48.456
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
